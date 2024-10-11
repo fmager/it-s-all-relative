@@ -1,7 +1,7 @@
 # It's All Relative: Relative Uncertainty in Latent Spaces using Relative Representations
 
 This is the official code base of [It's All Relative: Relative Uncertainty in Latent Spaces using Relative Representations](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/UniReps/Authors&referrer=%5BHomepage%5D(%2F)).
-It is based on [this github repository](https://github.com/timgaripov/dnn-mode-connectivity) from the authors of [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs). In this work, we show that ensembles are confounded by reparameterization. By transforming the embeddings to a space of relative proximity, we show that uncertainty in the latent space decreases.
+It is based on [this github repository](https://github.com/timgaripov/dnn-mode-connectivity) from the authors of [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://arxiv.org/abs/1802.10026). In this work, we show that ensembles are confounded by reparameterization. By transforming the embeddings to a space of relative proximity, we show that uncertainty in the latent space decreases.
 
 
 ## Getting Started
